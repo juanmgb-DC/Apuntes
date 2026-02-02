@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8be8e532-1fd3-4b15-92cc-cd8dd4f0cfd0" name="Changes" comment="Commit 5 - Match Case">
-      <change afterPath="$PROJECT_DIR$/Funciones.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8be8e532-1fd3-4b15-92cc-cd8dd4f0cfd0" name="Changes" comment="Commit 5 - Match Case" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,12 +26,12 @@
     &quot;assignee&quot;: &quot;juanmgb-DC&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/juanmgb-DC/ApuntesExcepciones.git&quot;,
-    &quot;accountId&quot;: &quot;5b0d6b91-a9f4-4070-9d4b-22f616e0a531&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/juanmgb-DC/Apuntes.git",
+    "accountId": "5b0d6b91-a9f4-4070-9d4b-22f616e0a531"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -43,24 +40,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.FicheirosBinarios.executor": "Run",
-    "Python.Fichero2.executor": "Run",
-    "Python.Ficheros.executor": "Run",
-    "Python.Ficheros2.executor": "Run",
-    "Python.FicherosJSON.executor": "Run",
-    "Python.Funciones.executor": "Run",
-    "Python.Match case 2.executor": "Run",
-    "Python.Match case.executor": "Run",
-    "Python.Nuss.executor": "Run",
-    "Python.ficheros.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.FicheirosBinarios.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fichero2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ficheros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ficheros2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FicherosJSON.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Funciones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Match case 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Match case.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Nuss.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ficheros.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/FICHEROS" />
@@ -69,7 +66,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
       </set>
     </attachedChunks>
   </component>
